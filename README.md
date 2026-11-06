@@ -11,19 +11,19 @@ Länk till Google Kalkylark/Docs: [https://docs.google.com/spreadsheets/d/1WR81o
 När sprinten är klar ska kaféets startsida visa information om adress, kaffepris, wifi, telefonnummer, nötter, parkering, veckans erbjudande och eventkvällen.
 
 ## Daily standups
-### [Datum 3/11-2026 Tisdag]
+3/11-2026 Tisdag
 -[Dino]: Har gått igenom projektets kod för att förstå hur den är uppbyggd. Idag ska han skriva en user story som hör till funktion 9. Inga hinder.
 -[Ghada]: Har skapat tavlan och lagt in länken i README.md så att alla i gruppen kan komma åt den. Idag ska hon skriva en user story för funktion 3. Inga hinder.
 -[Isac]: Har skrivit en user story och ska idag koppla den till funktion 7. Inga hinder.
 -[Samane]: Jag har skapat gruppens GitHub-repository. Idag ska jag skriva en user story kopplad till funktion 5. Inga hinder.
 
-### [4/11-2026 Onsdag]
+4/11-2026 Onsdag
 -[Dino]: Har arbetat med user story 10, skapat en branch, pushat koden till GitHub och skapat en Pull Request. Har även granskat Isacs user story och genomfört merge. Idag ska han fortsätta arbeta med att färdigställa funktionen. Inga hinder.
 -[Ghada]: Har arbetat med user story 4, skapat en branch, laddat upp koden till GitHub, skapat en Pull Request och genomfört merge. Har även granskat Samanes user story. Idag ska hon slutföra funktionen. Inga hinder.
 -[Isac]: Har arbetat med user story 7, skapat en branch och laddat upp sina ändringar till GitHub. Har även granskat Dinos user story och gett återkoppling. Idag ska han påbörja arbetet med user story 8. Inga hinder.
 -[Samane]: Jag har arbetat med user story 5, skapat en branch, laddat upp min kod till GitHub och skapat en Pull Request. Jag har även granskat Ghad​​as user story och gett återkoppling. Idag ska jag påbörja arbetet med user story 6. Inga hinder.
 
-### 5/11-2026 - Torsdag
+5/11-2026 - Torsdag
 - [Dino]: Slutförde userstory 10 igår och har även skrivit sin personliga reflektion. Idag ska han vara med och diskutera teorifrågorna med gruppen och sedan genomföra retrospektivet. Inga hinder.
 - [Ghada]: Blev färdig med userstory 4 igår och har gjort klart sin personliga reflektion. Dagens plan är att arbeta tillsammans med gruppen kring teorifrågorna och delta i retrospektivet. Inga hinder.
 - [Isac]: Avslutade arbetet med userstory 8 igår och skrev sin personliga reflektion. Idag kommer han att fokusera på gruppens teorifrågor och retrospektiv. Har inga hinder.
